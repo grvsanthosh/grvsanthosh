@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santhoshkumar Elumalai</h1>
-<h3 align="center">I'm a Catalog Auto Specialist II. Seeking opportunities in full stack development</h3>
+<h3 align="center">I'm a Catalog Auto Specialist II. Seeking opportunities in SDET role with playwright automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grvsanthosh&label=Profile%20views&color=0e75b6&style=flat" alt="grvsanthosh" /> </p>
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **Playwright|MCP|AZURE**
 
 - 👨‍💻 All of my projects are available at [https://santhoshkumarelumalai.netlify.app/](https://santhoshkumarelumalai.netlify.app/)
 
